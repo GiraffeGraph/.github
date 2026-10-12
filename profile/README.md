@@ -49,18 +49,6 @@ The **GiraffeGraph organization website** — landing page and public-facing web
 
 ---
 
-### 📚 [GiraffeGraph Docs](https://github.com/GiraffeGraph/giraffegraph-docs)
-
-Central **documentation** for the GiraffeGraph ecosystem. *(Coming soon)*
-
----
-
-### 💡 [GiraffeGraph Examples](https://github.com/GiraffeGraph/giraffegraph-examples)
-
-**Example projects and usage demos** for GiraffeGraph tools. *(Coming soon)*
-
----
-
 ## Contributing
 
 All GiraffeGraph projects are open source. We welcome contributions of all kinds — bug reports, feature requests, documentation improvements, and pull requests.
