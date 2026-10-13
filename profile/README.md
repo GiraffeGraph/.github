@@ -27,7 +27,9 @@ A **self-hosted knowledge editor** that combines block editing, wikilinks, backl
 
 ---
 
-### 🧠 [GiraffeGraph Core](https://github.com/GiraffeGraph/giraffegraph-core)
+### 🧠 GiraffeGraph Core
+
+_In development. The source will be published with the project's release._
 
 A **general-purpose knowledge graph platform** that transforms raw, unstructured data into a structured, verifiable, and incrementally growing knowledge graph.
 
@@ -41,7 +43,7 @@ A **general-purpose knowledge graph platform** that transforms raw, unstructured
 
 ---
 
-### 🌐 [Web](https://github.com/GiraffeGraph/web)
+### 🌐 [Landing](https://github.com/GiraffeGraph/landing)
 
 The **GiraffeGraph organization website** — landing page and public-facing web presence.
 
